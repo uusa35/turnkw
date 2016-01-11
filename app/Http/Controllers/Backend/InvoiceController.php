@@ -6,6 +6,7 @@ use App\Core\CreateExcelSheet;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Response;
+use Laracasts\Flash\Flash;
 
 class InvoiceController extends Controller
 {
