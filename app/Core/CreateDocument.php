@@ -31,7 +31,7 @@ class CreateDocument
 
     public function CreateFromTemp(Request $request)
     {
-        $document = $this->phpWord->loadTemplate(storage_path('quotations\temp\quotation_TEMP.docx'));
+        $document = $this->phpWord->loadTemplate(storage_path('quotations/temp/quotation_TEMP.docx'));
 
         $document->setValue('ref', $request->ref);
         $document->setValue('attention', $request->attention);
