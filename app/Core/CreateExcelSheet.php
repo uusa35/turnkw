@@ -114,6 +114,8 @@ class CreateExcelSheet
 
         $objWriter->save(storage_path('invoices/'.$fileName.'.xls'));
 
+        return $fileName;
+
     }
     /*public function createSheet()
     {

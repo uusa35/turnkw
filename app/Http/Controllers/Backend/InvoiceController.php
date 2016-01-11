@@ -38,7 +38,10 @@ class InvoiceController extends Controller
     public function store(Request $request)
     {
         $sheet = new CreateExcelSheet();
-        $sheet->createSheetFromTemp($request);
+
+        $fileName = $sheet->createSheetFromTemp($request);
+
+        return Response::download(storage_path('invoices'.'/'.$fileName.'.docx'));
     }
 
     /**
