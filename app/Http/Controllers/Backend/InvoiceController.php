@@ -3,9 +3,9 @@
 namespace App\Http\Controllers\Backend;
 
 use App\Core\CreateExcelSheet;
-use Cartalyst\Alerts\Laravel\Facades\Alert;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Response;
 
 class InvoiceController extends Controller
 {
@@ -40,6 +40,8 @@ class InvoiceController extends Controller
         $sheet = new CreateExcelSheet();
 
         $fileName = $sheet->createSheetFromTemp($request);
+
+        Flash::success('messages.success.created');
 
         return Response::download(storage_path('invoices'.'/'.$fileName.'.docx'));
     }
