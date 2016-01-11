@@ -44,7 +44,7 @@ class InvoiceController extends Controller
 
         Flash::success('messages.success.created');
 
-        return Response::download(storage_path('invoices'.'/'.$fileName.'.docx'));
+        return Response::download(storage_path('invoices'.'/'.$fileName.'.xls'));
     }
 
     /**
