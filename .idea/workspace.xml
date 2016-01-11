@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0804059-56d4-4d45-80b7-3df1ae292eac" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/images/phpword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/resources/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/resources/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/resources/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/reader.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/reader.docx.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/reader.odt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/sheet.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/without_table_macros.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/PhpWord.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/alexz-johnson.pcx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/angela_merkel.tif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/duke_nukem.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/earth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/mario.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/mars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/images/mars_noext_jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/blank.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/clone-delete-block.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/clone-merge.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/corrupted_main_document_part.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/header-footer.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/templates/with_table_macros.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/bootstrap/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/bootstrap/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/img/jbimages-bw.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/img/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce-small.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce-small.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce-small.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/img/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/img/object.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/invoices/temp/invoice_TEMP.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/quotations/temp/quotation_TEMP.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/Drop Down menu for Maintenance.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/invoice_TEMP.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/invoice_TEMP_2.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/quotation_TEMP.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/quotation_TEMP.pages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnkw_TEMP/quotation_TEMP_2.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.envDev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/CreateDocument.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/CreateExcelSheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/LocaleTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PoliciesCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PrimaryController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PrimaryEmailService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PrimaryImageService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PrimaryModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/PrimaryRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/SocialAuthTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Core/UserTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/DashboardController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Backend/MaintenanceController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/LanguageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Locale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Policies/QuotationPolicy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/InvoicesTableSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/QuotationsTableSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/.scrutinizer.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/.travis_shell_after_success.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/COPYING.LESSER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/containers.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/credits.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/elements.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/faq.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/general.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/images/phpword.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/installing.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/intro.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/recipes.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/references.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/src/documentation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/styles.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/templates-processing.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/docs/writersreaders.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/phpmd.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/phpword.ini.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_01_SimpleText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_02_TabStops.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_03_Sections.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_04_Textrun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_05_Multicolumn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_06_Footnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_07_TemplateCloneRow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_08_ParagraphPagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_09_Tables.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_10_EastAsianFontStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_11_ReadWord2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_11_ReadWord97.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_12_HeaderFooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_13_Images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_14_ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_15_Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_16_Object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_17_TitleTOC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_18_Watermark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_19_TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_20_BGColor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_21_TableRowRules.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_22_CheckBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_23_TemplateBlock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_24_ReadODText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_25_TextBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_26_Html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_27_Field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_28_ReadRTF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_29_Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_30_ReadHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_31_Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_32_Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_33_FormField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_34_SDT.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_35_InternalLink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_36_RTL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_Footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/Sample_Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/css/phpword.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/bootstrap/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/samples/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/AbstractCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/Bookmarks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/Charts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/Endnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/Footnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Collection/Titles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/AbstractContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/AbstractElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Bookmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/CheckBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Endnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Footnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/FormField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/ListItemRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/PageBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/PreserveText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/SDT.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/TOC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/TextBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/TextRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Element/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/CopyFileException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/CreateTemporaryFileException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/InvalidImageException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/InvalidObjectException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/InvalidStyleException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Exception/UnsupportedImageTypeException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/IOFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Metadata/Compatibility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Metadata/DocInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Metadata/Protection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/PhpWord.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/AbstractReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/HTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/MsDoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/ODText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/ODText/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/ODText/Content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/ODText/Meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/RTF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/RTF/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/ReaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/DocPropsApp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/DocPropsCore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/DocPropsCustom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/Endnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/Footnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/Numbering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Reader/Word2007/Styles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/Converter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/Html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/OLERead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/PCLZip/pclzip.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/StringElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/XMLReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/XMLWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Shared/ZipArchive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/AbstractStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Alignment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Extrusion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Fill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Frame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Indentation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/LineNumbering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Numbering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/NumberingLevel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Outline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Paper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Shading.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Shadow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Spacing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/TOC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Style/TextBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/TemplateProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/AbstractWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/AbstractElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Endnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Footnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/PageBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/TextRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Element/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Part/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Part/Body.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Part/Head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Style/AbstractStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Style/Generic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Style/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/HTML/Style/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/AbstractElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/TextRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Element/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/Content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/Manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/Meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/Mimetype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Part/Styles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/AbstractStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/Section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/ODText/Style/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/PDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/PDF/AbstractRenderer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/PDF/DomPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/PDF/MPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/PDF/TCPDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/AbstractElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/PageBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/TextRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Element/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Part/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Part/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Part/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Style/AbstractStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Style/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Style/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/RTF/Style/Section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/AbstractElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Bookmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/CheckBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Endnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Footnote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/FormField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/ListItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/ListItemRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/PageBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/PreserveText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/SDT.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/TOC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/TextBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/TextBreak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/TextRun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Element/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/AbstractPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/ContentTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsApp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsCore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsCustom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Endnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/FontTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Footnotes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Numbering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Rels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/RelsDocument.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/RelsPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Styles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/Theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Part/WebSettings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/AbstractStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Alignment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Extrusion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Fill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Frame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Indentation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Line.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/LineNumbering.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/MarginBorder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Outline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Shading.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Shadow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Shape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Spacing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/Word2007/Style/TextBox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/src/PhpWord/Writer/WriterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/AutoloaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Collection/CollectionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/AbstractElementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/CellTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/CheckBoxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/FieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/FooterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/FootnoteTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/HeaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/ImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/LineTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/LinkTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/ListItemRunTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/ListItemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/ObjectTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/PageBreakTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/PreserveTextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/RowTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/SDTTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/SectionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TOCTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TableTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TextBoxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TextBreakTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TextRunTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Element/TitleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/CopyFileExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/CreateTemporaryFileExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/ExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/InvalidImageExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/InvalidStyleExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Exception/UnsupportedImageTypeExceptionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/IOFactoryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/MediaTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Metadata/DocInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/PhpWordTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Reader/HTMLTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Reader/ODTextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Reader/RTFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Reader/Word2007Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/SettingsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/ConverterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/HtmlTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/StringTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/XMLReaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/XMLWriterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Shared/ZipArchiveTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/AbstractStyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/CellTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/FontTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/ImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/IndentationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/LineNumberingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/LineTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/ListItemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/NumberingLevelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/NumberingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/ParagraphTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/RowTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/SectionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/ShadingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/SpacingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/TOCTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/TabTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/TableTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Style/TextBoxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/TemplateProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/HTML/ElementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/HTML/PartTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/HTML/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/HTMLTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/ODText/ElementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/ODText/Part/AbstractPartTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/ODText/Part/ContentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/ODText/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/ODTextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/PDF/DomPDFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/PDF/MPDFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/PDF/TCPDFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/PDFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/RTF/ElementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/RTF/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/RTFTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/ElementTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/AbstractPartTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/DocumentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/FooterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/FootnotesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/HeaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/NumberingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/SettingsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Part/StylesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/PartTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/Style/FontTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007/StyleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/Writer/Word2007Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/reader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/documents/reader.rtf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/xsl/passthrough.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_files/xsl/remove_tables_by_needle.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_includes/TestHelperDOCX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/PhpWord/Tests/_includes/XmlDocument.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpword/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/build/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/doctypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/foreign_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/mimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/smileys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/uploader_settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/config/user_agents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/controllers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/controllers/uploader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/errors/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/errors/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/errors/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/errors/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/helpers/jbimages_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/english/jbstrings_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/french/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/french/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/french/jbstrings_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/french/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/russian/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/russian/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/russian/jbstrings_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/language/russian/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/views/ajax_upload_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/views/blank.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/application/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/CodeIgniter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/Utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/helpers/language_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/language/english/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/language/english/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/libraries/Image_lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/libraries/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/css/dialog-v4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/css/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/dialog-v4.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/dialog.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/editor_plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/editor_plugin_src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/is_allowed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/js/dialog-v4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/js/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/en_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/fr_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/langs/ru_dlg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/plugins/jbimages/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/content.inline.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce-small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/fonts/tinymce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/skin.ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/skins/lightgray/skin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/buttons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/buttons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/forgot.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login_temp.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/password.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/reset.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/back.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/example.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/home.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/_one_col.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/master.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/ad/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/ad/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/ad/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/_latest_added.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/_most_favorited.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/chapter/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/chapter/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/chapter/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/chapter/preview/_create_preview_form.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/chapter/preview/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/book/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/field/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/field/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/field/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/field/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/form_create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/form_edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/lang/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/lang/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/lang/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/category/lang/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/comment/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/contactus/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create2.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/messenger/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/messenger/html-message.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/messenger/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/messenger/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/messenger/unread-count.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/newsletter/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/newsletter/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/permissions/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/permissions/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/permissions/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/quotation/buttons/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/quotation/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/roles/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/roles/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/roles/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/roles_permissions/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/slider/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/slider/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/slider/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/user/conditions.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/user/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/user/dashboard/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/user/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/modules/user/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/_delete_modal.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/breadcrumbs.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/buttons/_chapter_change_status_btn.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/buttons/_chapter_edit_btn.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/buttons/form._btn__.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/buttons/form_btn_create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/buttons/form_btn_update.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/header.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/notifications.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/sidebar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/partials/toolbar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backend/temp.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/backtest.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/_new_drafted_chapter.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/_new_published_chapter.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/contactus.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/newsletter.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/password.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/test.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/403.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/front.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/layouts/master.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/layouts/one_col.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/book/all.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/book/chapter/_chapters_modal.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/book/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/book/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/category/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/comment/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/modules/user/profile.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/pages/conditions.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/_followers_modal.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/_form_contactus.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/ads.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/comment.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/conditions.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/contactus.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/footer.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/header.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/notifications.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/slider.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/frontend/partials/toolbar.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/allscripts.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/tinymce.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/trumbowyg.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/starter.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/fonts.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/stylesheets.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/trumbowyg.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/flash/message.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/flash/modal.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/translation-manager/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/translation-manager/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+    </list>
+    <ignored path="turnkw.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="true" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="turnkw" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.7083335">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#8787#8805#0#HTML" expanded="true" />
+                <element signature="e#9049#9067#0#HTML" expanded="true" />
+                <element signature="e#9312#9330#0#HTML" expanded="true" />
+                <element signature="e#9576#9594#0#HTML" expanded="true" />
+                <marker date="1452510841000" expanded="true" signature="1536:1546" placeholder="..." />
+                <marker date="1452510841000" expanded="true" signature="1752:1762" placeholder="..." />
+                <marker date="1452510841000" expanded="true" signature="1968:1978" placeholder="..." />
+                <marker date="1452510841000" expanded="true" signature="2193:2203" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvoiceController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Backend/InvoiceController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-25.0">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+              <folding>
+                <element signature="e#48#78#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateExcelSheet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Core/CreateExcelSheet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.7083333">
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding>
+                <element signature="e#114#142#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14457831">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2016_01_05_134600_add_user_id_after_id_to_invoices_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_01_04_165520_create_qutations_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_01_04_165520_create_quotations_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_01_04_170317_create_invoices_table.php" />
+        <option value="$PROJECT_DIR$/app/Src/Quotation/Quotation.php" />
+        <option value="$PROJECT_DIR$/app/Src/Invoice/Invoice.php" />
+        <option value="$PROJECT_DIR$/app/Policies/QutationPolicy.php" />
+        <option value="$PROJECT_DIR$/database/seeds/InvoiceTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/QuotationTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/InvoicesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/QuotationsTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/styles/stylesheets.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Policies/InvoicePolicy.php" />
+        <option value="$PROJECT_DIR$/app/Policies/QuotationPolicy.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/MaintenanceController.php" />
+        <option value="$PROJECT_DIR$/app/Src/User/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/scripts/allscripts.blade.php" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/AdminZone.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/UserRole.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Core/UserTrait.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/CreateQuotation.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/calc.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/quotation/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/QuotationController.php" />
+        <option value="$PROJECT_DIR$/app/Core/CreateDocument.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/quotation/buttons/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/partials/toolbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/partials/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Backend/InvoiceController.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
+        <option value="$PROJECT_DIR$/app/Core/CreateExcelSheet.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>copy</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>scripts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>styles</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>tdd</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>version</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 7" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw_TEMP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="errors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buttons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buttons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Middleware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value=".gitig&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.gitignore&#10;Invoic&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/create.blade.php&#10;invoice&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;sidebar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;toolbar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/toolbar.blade.php&#10;Auth&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/Authenticate.php&#10;routes&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;_btn_c&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php&#10;index&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/index.blade.php&#10;home&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;invoic&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;Quo&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;CreateDo&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateDocument.php&#10;CreateD&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateDocument.php&#10;CREATE&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/quotation/create.blade.php&#10;Create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateDocument.php&#10;Q&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Quot&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;CreateQ&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Requests/CreateQuotation.php&#10;create.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/quotation/create.blade.php&#10;mast&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;Quota&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;master&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;create.blade&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/quotation/create.blade.php&#10;Quotation&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Authe&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/Authenticate.php&#10;UserT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;home.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;.env&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.env&#10;userT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;ker&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;kerna&#9;null&#9;null&#10;kern&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;EventSer&#9;null&#9;null&#10;routes.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;ModelF&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/database/factories/ModelFactory.php&#10;AuthC&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Auth/AuthController.php&#10;composer.js&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;InvoiceC&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;invoiceC&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;Invoi&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;app.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;composer.json&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;gulp&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/gulpfile.js&#10;create.blade.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/create.blade.php&#10;allscripts&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/scripts/allscripts.blade.php&#10;script&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/scripts/allscripts.blade.php&#10;style&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/styles/stylesheets.blade.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebook" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storage/invoices/temp" />
+      <recent name="$PROJECT_DIR$/storage/quotations/temp" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Backend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/backend/modules/invoice" />
+      <recent name="$PROJECT_DIR$/storage/invoices/temp" />
+      <recent name="$PROJECT_DIR$/storage/invoices" />
+      <recent name="$PROJECT_DIR$/storage/quotations" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0804059-56d4-4d45-80b7-3df1ae292eac" name="Default" comment="" />
+      <created>1451448855237</created>
+      <option name="number" value="Default" />
+      <updated>1451448855237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2746781" sideWeight="0.5046729" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.49532712" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="489" y="0" width="461" height="849" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8022388">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/tinymce/plugins/template/plugin.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/plugins/jbimages/ci/system/core/URI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42910448">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/tinymce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11235955">
+          <caret line="1" column="703" selection-start-line="1" selection-start-column="703" selection-end-line="1" selection-end-column="703" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/themes/modern/theme.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/themes/modern/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1231884">
+          <caret line="62" column="69" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="161" column="51" selection-start-line="161" selection-start-column="51" selection-end-line="161" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/HTML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73880595">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpword/src/PhpWord/Reader/HTML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5970149">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dompdf/dompdf/lib/html5lib/Parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3544776">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5298507">
+          <caret line="99" column="51" selection-start-line="99" selection-start-column="51" selection-end-line="99" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpword/src/PhpWord/Element/Section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48387095">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpword/src/PhpWord/PhpWord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018610422">
+          <caret line="203" column="27" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/AbstractContainer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14888337">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31637716">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53970224">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68362284">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminZone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11166253">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.516129">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/tinymce/tinymce.jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325301">
+          <caret line="1298" column="0" selection-start-line="1298" selection-start-column="0" selection-end-line="1298" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/UserTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65136474">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Fixtures/KernelForOverrideName.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14888337">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1626506">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateQuotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#37#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11166253">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/htmltodocx_0_6_5_alpha/phpword/Examples/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39081886">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/quotation/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60918117">
+          <caret line="85" column="50" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13027295">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/quotation/buttons/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037220843">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.074441686">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16749379">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/CreateDocument.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37096775">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <element signature="e#27#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Backend/QuotationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62903225">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66997516">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/partials/toolbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14888337">
+          <caret line="8" column="90" selection-start-line="8" selection-start-column="90" selection-end-line="8" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7766749">
+          <caret line="101" column="41" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/partials/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13027295">
+          <caret line="7" column="111" selection-start-line="7" selection-start-column="111" selection-end-line="7" selection-end-column="111" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6141439">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1452507833000" expanded="false" signature="1530:1540" placeholder="..." />
+            <marker date="1452507833000" expanded="false" signature="1739:1749" placeholder="..." />
+            <marker date="1452507833000" expanded="false" signature="1948:1958" placeholder="..." />
+            <marker date="1452507833000" expanded="false" signature="2166:2176" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6327543">
+          <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/403.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81885856">
+          <caret line="51" column="22" selection-start-line="47" selection-start-column="16" selection-end-line="51" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/404.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6650124">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/errors/503.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80024815">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/translation-manager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2605459">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Backend/InvoiceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.0">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#48#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7083335">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#8787#8805#0#HTML" expanded="true" />
+            <element signature="e#9049#9067#0#HTML" expanded="true" />
+            <element signature="e#9312#9330#0#HTML" expanded="true" />
+            <element signature="e#9576#9594#0#HTML" expanded="true" />
+            <marker date="1452510841000" expanded="true" signature="1536:1546" placeholder="..." />
+            <marker date="1452510841000" expanded="true" signature="1752:1762" placeholder="..." />
+            <marker date="1452510841000" expanded="true" signature="1968:1978" placeholder="..." />
+            <marker date="1452510841000" expanded="true" signature="2193:2203" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Core/CreateExcelSheet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.7083333">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#142#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14457831">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

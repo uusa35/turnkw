@@ -1,0 +1,48 @@
+{
+  "name": "turnkw",
+  "description": "this is an application for creating RTF + Xml to generate invoices and reports",
+  "main": "index",
+  "authors": [
+    "usama ahmed <uusa35@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "usama",
+    "egypt",
+    "turnkw",
+    "cairo",
+    "laravel"
+  ],
+  "homepage": "https://github.com/uusa35/turnkw",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flatly-sb-admin": "*",
+    "bootstrap-sass": "~3.3.6",
+    "bootstrap-sass-rtl": "*",
+    "jquery.cookie": "~1.4.1",
+    "tinymce": "~4.3.2",
+    "normalize-scss": "normalize.scss#~4.0.3",
+    "morris.js": "~0.5.1",
+    "bootstrap-social": "~4.11.0",
+    "font-awesome": "~4.5.0",
+    "jquery-colorbox": "colorbox#~1.6.3",
+    "dropzone": "~4.2.0"
+  },
+  "devDependencies": {
+    "flatly-sb-admin": "*",
+    "bower": "*",
+    "install": "~1.0.4",
+    "metisMenu": "~2.2.0",
+    "sb-admin-v2": "~0.1.0",
+    "bootstrap-rtl": "~3.3.4"
+  }
+}

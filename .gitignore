@@ -1,0 +1,8 @@
+/vendor/*
+!/vendor/phpoffice
+/node_modules
+/bower_components
+Homestead.yaml
+Homestead.json
+/phpword
+.env
