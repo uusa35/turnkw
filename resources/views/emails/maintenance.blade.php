@@ -224,7 +224,7 @@
                                                                 <div class='contentEditableContainer contentTextEditable'>
                                                                     <div class='contentEditable'
                                                                          style='text-align: center;'>
-                                                                        <h2 style="font-size: 20px;">{{ ucfirst(trans('general.contact_us')) }}</h2>
+                                                                        <h2 style="font-size: 20px;">{{ ucfirst(trans('general.create_maintenance')) }}</h2>
                                                                         <br>
                                                                         <table>
                                                                             <tr>
