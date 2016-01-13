@@ -98,7 +98,7 @@
                             <label class="col-md-3 control-label" for="from">from</label>
                             <div class="col-md-9">
                                 <input id="from" name="from" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -108,7 +108,7 @@
                             <label class="col-md-3 control-label" for="to">to</label>
                             <div class="col-md-9">
                                 <input id="to" name="to" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                             <label class="col-md-3 control-label" for="project">project</label>
                             <div class="col-md-9">
                                 <input id="project" name="project" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                             <label class="col-md-3 control-label" for="invoiceNo">Invoice Number</label>
                             <div class="col-md-9">
                                 <input id="invoiceNo" name="invoiceNo" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                             <label class="col-md-3 control-label" for="po">PO</label>
                             <div class="col-md-9">
                                 <input id="po" name="po" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -148,7 +148,7 @@
                             <label class="col-md-3 control-label" for="date">date</label>
                             <div class="col-md-9">
                                 <input id="date" name="date" type="date" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                                 manager</label>
                             <div class="col-md-9">
                                 <input id="projectManager" name="projectManager" type="text" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
                                 <span class="help-block"> </span>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                             <label class="col-md-2 control-label" for="dueDate">due date</label>
                             <div class="col-md-10">
                                 <input id="dueDate" name="dueDate" type="date" placeholder=""
-                                       class="form-control input-md" value="testing">
+                                       class="form-control input-md" required="">
 
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                                 <label class="col-md-2 control-label" for="totalWords">total in words</label>
                                 <div class="col-md-4">
                                     <input id="totalWords" name="totalWords" type="text" placeholder=""
-                                           class="form-control input-md" value="testing">
+                                           class="form-control input-md" required="">
 
                                 </div>
                             </div>
@@ -243,7 +243,7 @@
                                 <div class="col-md-4">
                                     <input id="total" name="total" type="text" placeholder=""
                                            class="form-control input-md"
-                                           value="testing">
+                                           required="">
 
                                 </div>
                             </div>

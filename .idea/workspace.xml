@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0804059-56d4-4d45-80b7-3df1ae292eac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Core/UserTrait.php" afterPath="$PROJECT_DIR$/app/Core/UserTrait.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/AdminZone.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/AdminZone.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
     </list>
     <ignored path="turnkw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,6 +31,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4527297">
+              <caret line="116" column="57" selection-start-line="116" selection-start-column="57" selection-end-line="116" selection-end-column="57" />
+              <folding>
+                <element signature="e#8755#8773#0#HTML" expanded="true" />
+                <element signature="e#9017#9035#0#HTML" expanded="true" />
+                <element signature="e#9280#9298#0#HTML" expanded="true" />
+                <element signature="e#9544#9562#0#HTML" expanded="true" />
+                <marker date="1452673747000" expanded="true" signature="1536:1546" placeholder="..." />
+                <marker date="1452673747000" expanded="true" signature="1752:1762" placeholder="..." />
+                <marker date="1452673747000" expanded="true" signature="1968:1978" placeholder="..." />
+                <marker date="1452673747000" expanded="true" signature="2193:2203" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Authenticate.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Authenticate.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6902985">
+            <state vertical-scroll-proportion="-23.125">
               <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
@@ -159,7 +175,6 @@
         <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/partials/toolbar.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/errors/404.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
@@ -191,6 +206,7 @@
         <option value="$PROJECT_DIR$/app/Core/UserTrait.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/AdminZone.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
       </list>
     </option>
   </component>
@@ -393,7 +409,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;AdminZ&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/AdminZone.php&#10;userT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;index.blade&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;home.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;_create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php&#10;local&#9;null&#9;null&#10;Langua&#9;null&#9;null&#10;main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;Main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;Prima&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;.env&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;mail.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/mail.php&#10;services&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;app.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;ma&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;services.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;.envDev&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;maintenanc&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/create.blade.php&#10;create.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/create.blade.php&#10;Prim&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;Primar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryImageService.php&#10;app.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;Create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Requests/CreateMaintenanceRequest.php&#10;_tow&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/_tow_col.blade.php&#10;mail&#9;null&#9;null&#10;Maint&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;sideb&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;home.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;routes.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;index.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;login.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;login.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;master&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;UserT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;User&#9;null&#9;null&#10;UserTr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;sid&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;tr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;kern&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;tran&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;ker&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;routes&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;Qu&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Quo&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Invoi&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;CreateE&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateExcelSheet.php" />
+    <property name="SearchEverywhereHistoryKey" value="create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/create.blade.php&#10;user&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;AdminZ&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/AdminZone.php&#10;userT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;index.blade&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;home.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;_create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php&#10;local&#9;null&#9;null&#10;Langua&#9;null&#9;null&#10;main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;Main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;Prima&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;.env&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;mail.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/mail.php&#10;services&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;app.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;ma&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;services.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;.envDev&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;maintenanc&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;create.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/create.blade.php&#10;Prim&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;Primar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryImageService.php&#10;app.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;Create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Requests/CreateMaintenanceRequest.php&#10;_tow&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/_tow_col.blade.php&#10;mail&#9;null&#9;null&#10;Maint&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;sideb&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;home.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;routes.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;index.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;login.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;login.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;master&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;UserT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;User&#9;null&#9;null&#10;UserTr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;sid&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;tr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;kern&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;tran&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;ker&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;routes&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;Qu&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Quo&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Invoi&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;CreateE&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateExcelSheet.php" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebook" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -510,23 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80024815">
           <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.7083335">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#8787#8805#0#HTML" expanded="false" />
-            <element signature="e#9049#9067#0#HTML" expanded="false" />
-            <element signature="e#9312#9330#0#HTML" expanded="false" />
-            <element signature="e#9576#9594#0#HTML" expanded="false" />
-            <marker date="1452510841000" expanded="true" signature="1536:1546" placeholder="..." />
-            <marker date="1452510841000" expanded="true" signature="1752:1762" placeholder="..." />
-            <marker date="1452510841000" expanded="true" signature="1968:1978" placeholder="..." />
-            <marker date="1452510841000" expanded="true" signature="2193:2203" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,9 +923,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6902985">
+        <state vertical-scroll-proportion="-23.125">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4527297">
+          <caret line="116" column="57" selection-start-line="116" selection-start-column="57" selection-end-line="116" selection-end-column="57" />
+          <folding>
+            <element signature="e#8755#8773#0#HTML" expanded="true" />
+            <element signature="e#9017#9035#0#HTML" expanded="true" />
+            <element signature="e#9280#9298#0#HTML" expanded="true" />
+            <element signature="e#9544#9562#0#HTML" expanded="true" />
+            <marker date="1452673747000" expanded="true" signature="1536:1546" placeholder="..." />
+            <marker date="1452673747000" expanded="true" signature="1752:1762" placeholder="..." />
+            <marker date="1452673747000" expanded="true" signature="1968:1978" placeholder="..." />
+            <marker date="1452673747000" expanded="true" signature="2193:2203" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
