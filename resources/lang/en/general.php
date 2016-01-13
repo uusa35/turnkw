@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'home' => 'Home',
+  'home' => 'Home Page',
   'admin' => 'Admin',
   'login' => 'login',
   'logout' => 'logout',
@@ -264,4 +264,5 @@ return array (
   'under_construction' => 'E-Boook site is under construction.',
   'translation' => 'translation',
   'create_invoice' => 'create invoice',
+  'create_quotation' => 'create quotation',
 );

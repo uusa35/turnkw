@@ -161,7 +161,7 @@ return [
         Laravel\Socialite\SocialiteServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
         Laracasts\Flash\FlashServiceProvider::class,
-        Barryvdh\TranslationManager\ManagerServiceProvider::class
+        Barryvdh\TranslationManager\ManagerServiceProvider::class,
 
     ],
 
@@ -214,7 +214,7 @@ return [
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
-        'Flash' => Laracasts\Flash\Flash::class
+        'Flash' => Laracasts\Flash\Flash::class,
 
 
     ],

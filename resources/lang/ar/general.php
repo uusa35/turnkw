@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'home' => 'الرئيسية',
+  'home' => 'الموقع الرئيسي',
   'admin' => 'ادمن',
   'login' => 'دخول',
   'logout' => 'خروج',
@@ -268,4 +268,5 @@ return array (
   'likes_counter' => 'الإعجاب',
   'translation' => 'الترجمة',
   'create_invoice' => 'إنشاء فاتورة',
+  'create_quotation' => 'إنشاء عرض سعر',
 );

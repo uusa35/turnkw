@@ -1,4 +1,4 @@
-<div class="col-lg-6 col-md-6">
+<div class="col-lg-6 col-md-6 col-lg-pull-6">
     <div class="panel panel-primary">
         <div class="panel-heading">
             {{ trans('general.maintenance') }}

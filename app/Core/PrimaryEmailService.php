@@ -13,6 +13,17 @@ use Illuminate\Support\Facades\Mail;
 trait PrimaryEmailService
 {
 
+    public function sendMaintenanceRequest($data)
+    {
+        return Mail::send('emails.maintenance', ['data' => $data], function ($message) use ($data) {
+            $message->from($data['email'], 'Maintenance Request');
+            $message->subject('turnkw.com | Maintenance Request | ' . $data['subject']);
+            $message->priority('high');
+            $message->to('mgm@turnkw.com');
+            $message->cc('uusa35@gmail.com',$data['email']);
+        });
+
+    }
 
     public function sendEmailContactus($data)
     {
@@ -25,6 +36,7 @@ trait PrimaryEmailService
         });
 
     }
+
 
     public function sendEmailForDraftedChapter($data, $book)
     {

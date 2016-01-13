@@ -9,28 +9,22 @@
 namespace App\Core;
 
 
+use Carbon\Carbon;
 use Illuminate\Support\Str;
+use Intervention\Image\Facades\Image;
+
 
 class PrimaryImageService
 {
 
-    public function CreateImage($currentImage, $folderName, $thumbResize, $largeResize)
+    public function CreateImage($currentImage)
     {
-
 
         $fileName = $currentImage->getClientOriginalName();
 
-        $fileName = rand(0, 10000) . '' . $fileName;
+        $fileName = Carbon::now()->toDateString() . '-' . $fileName;
 
-        $realPath = $currentImage->getRealPath();
-
-
-        \Image::make($realPath)->resize($thumbResize[0],
-
-            $thumbResize[1])->save(public_path('images/uploads/' . $folderName . '/thumbnail/' . $fileName));
-
-        \Image::make($realPath)->resize($largeResize[0],
-            $largeResize[1])->save(public_path('images/uploads/' . $folderName . '/large/' . $fileName));
+        Image::make(public_path('images/uploads/' . $fileName));
 
         return $fileName;
 
