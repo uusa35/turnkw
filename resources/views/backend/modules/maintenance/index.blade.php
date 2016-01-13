@@ -1,7 +1,7 @@
-<div class="col-lg-6 col-md-6 col-lg-pull-6">
+<div class="col-lg-6 col-md-6 col-lg-offset-3">
     <div class="panel panel-primary">
         <div class="panel-heading">
-            {{ trans('general.maintenance') }}
+            Maintenance section
         </div>
         <div class="panel-body">
             @include('backend.modules.maintenance.buttons.create')

@@ -28,7 +28,9 @@
                 </p>
             </div>
         </div>
-        @yield('content')
+        <div class="row">
+            @yield('content')
+        </div>
     </div>
 @stop
 

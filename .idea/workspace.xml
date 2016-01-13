@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0804059-56d4-4d45-80b7-3df1ae292eac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" />
     </list>
     <ignored path="turnkw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4527297">
+            <state vertical-scroll-proportion="-16.103895">
               <caret line="116" column="57" selection-start-line="116" selection-start-column="57" selection-end-line="116" selection-end-column="57" />
               <folding>
                 <element signature="e#8755#8773#0#HTML" expanded="true" />
@@ -53,8 +56,18 @@
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_tow_col.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.375">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -80,6 +93,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-29.208334">
+              <caret line="86" column="40" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Authenticate.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.05597015">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -113,28 +136,8 @@
       <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Locale.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Locale.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_btn_create.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.875">
+              <caret line="3" column="157" selection-start-line="3" selection-start-column="157" selection-end-line="3" selection-end-column="157" />
               <folding />
             </state>
           </provider>
@@ -156,13 +159,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/resources/views/styles/stylesheets.blade.php" />
         <option value="$PROJECT_DIR$/database/factories/ModelFactory.php" />
         <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
         <option value="$PROJECT_DIR$/app/Policies/InvoicePolicy.php" />
         <option value="$PROJECT_DIR$/app/Policies/QuotationPolicy.php" />
-        <option value="$PROJECT_DIR$/resources/views/backend/home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/scripts/allscripts.blade.php" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/UserRole.php" />
@@ -186,7 +187,6 @@
         <option value="$PROJECT_DIR$/config/translation-manager.php" />
         <option value="$PROJECT_DIR$/app/Src/User/User.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/partials/sidebar.blade.php" />
         <option value="$PROJECT_DIR$/app/Core/PrimaryEmailService.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/CreateMaintenanceRequest.php" />
@@ -200,13 +200,16 @@
         <option value="$PROJECT_DIR$/config/mail.php" />
         <option value="$PROJECT_DIR$/resources/views/emails/maintenance.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Locale.php" />
-        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/modules/quotation/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Core/UserTrait.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/AdminZone.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
         <option value="$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php" />
       </list>
     </option>
   </component>
@@ -337,6 +340,150 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buttons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turnkw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -409,7 +556,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/create.blade.php&#10;user&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;AdminZ&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/AdminZone.php&#10;userT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;index.blade&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;home.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;_create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php&#10;local&#9;null&#9;null&#10;Langua&#9;null&#9;null&#10;main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;Main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;Prima&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;.env&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;mail.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/mail.php&#10;services&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;app.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;ma&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;services.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;.envDev&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;maintenanc&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;create.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/create.blade.php&#10;Prim&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;Primar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryImageService.php&#10;app.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;Create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Requests/CreateMaintenanceRequest.php&#10;_tow&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/_tow_col.blade.php&#10;mail&#9;null&#9;null&#10;Maint&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;sideb&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;home.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;routes.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;index.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;login.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;login.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;master&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;UserT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;User&#9;null&#9;null&#10;UserTr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;sid&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;tr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;kern&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;tran&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;ker&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;routes&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;Qu&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Quo&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php&#10;Invoi&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/InvoiceController.php&#10;CreateE&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/CreateExcelSheet.php" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;_tow&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/_tow_col.blade.php&#10;home&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;_t&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/_tow_col.blade.php&#10;home.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/create.blade.php&#10;user&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;AdminZ&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Middleware/AdminZone.php&#10;userT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;index.blade&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;home.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/home.blade.php&#10;_create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/invoice/buttons/_btn_create.blade.php&#10;local&#9;null&#9;null&#10;Langua&#9;null&#9;null&#10;main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;Main&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;Prima&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;.env&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;mail.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/mail.php&#10;services&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;app.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;ma&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;services.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/services.php&#10;.envDev&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/.envDev&#10;maintenanc&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/emails/maintenance.blade.php&#10;create.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/create.blade.php&#10;Prim&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryEmailService.php&#10;Primar&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/PrimaryImageService.php&#10;app.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/app.php&#10;composer.&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/composer.json&#10;Create&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Requests/CreateMaintenanceRequest.php&#10;mail&#9;null&#9;null&#10;Maint&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/MaintenanceController.php&#10;sideb&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;routes.php&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;index.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/modules/maintenance/index.blade.php&#10;login.bl&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;login.b&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/auth/login.blade.php&#10;master&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/layouts/master.blade.php&#10;UserT&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;User&#9;null&#9;null&#10;UserTr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Core/UserTrait.php&#10;sid&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/resources/views/backend/partials/sidebar.blade.php&#10;tr&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;kern&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;tran&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/config/translation-manager.php&#10;ker&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Kernel.php&#10;routes&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/routes.php&#10;Qu&#9;FILE&#9;file:///Users/usamaahmed/Desktop/Homestead/www/turnkw/app/Http/Controllers/Backend/QuotationController.php" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebook" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -693,14 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/emails/contactus.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47761193">
@@ -742,14 +881,6 @@
           <folding>
             <element signature="e#37#67#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84577113">
-          <caret line="86" column="40" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,30 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
@@ -931,7 +1038,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/invoice/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4527297">
+        <state vertical-scroll-proportion="-16.103895">
           <caret line="116" column="57" selection-start-line="116" selection-start-column="57" selection-end-line="116" selection-end-column="57" />
           <folding>
             <element signature="e#8755#8773#0#HTML" expanded="true" />
@@ -943,6 +1050,46 @@
             <marker date="1452673747000" expanded="true" signature="1968:1978" placeholder="..." />
             <marker date="1452673747000" expanded="true" signature="2193:2203" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/layouts/_tow_col.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.208334">
+          <caret line="86" column="40" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/buttons/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="157" selection-start-line="3" selection-start-column="157" selection-end-line="3" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/backend/modules/maintenance/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05597015">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
