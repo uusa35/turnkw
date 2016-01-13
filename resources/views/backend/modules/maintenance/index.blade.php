@@ -7,7 +7,7 @@
             @include('backend.modules.maintenance.buttons.create')
         </div>
         <div class="panel-footer">
-            Panel Footer
+
         </div>
     </div>
 </div>

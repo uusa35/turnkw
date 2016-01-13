@@ -7,7 +7,7 @@
             @include('backend.modules.quotation.buttons.create')
         </div>
         <div class="panel-footer">
-            Panel Footer
+            
         </div>
     </div>
 </div>

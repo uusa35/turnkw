@@ -8,7 +8,7 @@
                 @include('backend.modules.invoice.buttons._btn_create')
             </div>
             <div class="panel-footer">
-                Panel Footer
+
             </div>
         </div>
     </div>
