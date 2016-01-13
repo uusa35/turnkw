@@ -27,7 +27,7 @@ trait UserTrait
 
     public function isAdmin()
     {
-        if (Cache::has('role') && Cache::get('role') === 'admin') {
+        if (Cache::has('role.'.Auth::id()) && Cache::get('role.'.Auth::id()) === 'admin') {
 
             return true;
         }

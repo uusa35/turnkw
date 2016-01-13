@@ -3,6 +3,7 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Cache;
 
 class AdminZone
@@ -16,7 +17,7 @@ class AdminZone
      */
     public function handle($request, Closure $next)
     {
-        if (Cache::get('role') === 'admin') {
+        if (Cache::get('role.'.Auth::id()) === 'admin') {
 
             return $next($request);
             

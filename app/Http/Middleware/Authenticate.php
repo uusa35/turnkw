@@ -31,9 +31,9 @@ class Authenticate
             }
         }
 
-        if (!Cache::has('role')) {
+        if (!Cache::has('role.'.Auth::id())) {
 
-            Cache::rememberForever('role', function () {
+            Cache::rememberForever('role.'.Auth::id(), function () {
 
                 return Auth::user()->role;
 
