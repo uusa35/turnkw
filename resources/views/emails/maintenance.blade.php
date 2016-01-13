@@ -264,8 +264,9 @@
                                         </table>
                                     </div>
                                     @foreach($data['images'] as $key => $image)
+                                            {{ dd($image }}
 
-                                    {{ $message->embed(storage_path('app/uploads'.$image)) }}
+                                    {{ $message->embed(storage_path('app/uploads/'.$image->getClientOriginalName())) }}
 
                                     @endforeach
 
