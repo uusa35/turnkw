@@ -19,7 +19,7 @@ class Locale
 
         if (!Session::has('locale')) {
 
-            Session::put('locale', 'ar');
+            Session::put('locale', 'en');
             /* Special Session to change direction of classes */
             Session::put(['pullClass' => 'pull-right', 'pullClassReverse' => 'pull-left']);
 
