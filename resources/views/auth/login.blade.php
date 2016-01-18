@@ -62,7 +62,7 @@
                                     <i class="fa fa-btn fa-sign-in"></i>{{ trans('general.login') }}
                                 </button>
 
-                                <a class="btn btn-link" href="{{ url('/password/reset') }}">{{ trans('general.forget_password') }}</a>
+                                <a class="btn btn-link" href="{{ url('/password/reset') }}">{{ trans('general.forgot_password') }}</a>
                             </div>
                         </div>
                     </form>
