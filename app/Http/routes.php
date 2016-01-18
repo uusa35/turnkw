@@ -44,8 +44,10 @@ Route::group(['middleware' => 'web'], function () {
     Route::group(['middleware' => 'auth'], function () {
 
         Route::group(['middleware' => 'admin.zone'], function () {
+
             Route::resource('invoice', 'Backend\InvoiceController');
             Route::resource('quotation', 'Backend\QuotationController');
+
         });
 
         Route::resource('maintenance', 'Backend\MaintenanceController');

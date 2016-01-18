@@ -1,10 +1,10 @@
 @extends('backend.layouts.master')
 
-@section('title', 'Page Title')
+{{--@section('title', 'Page Title')--}}
 
 
 @section('toolbar')
-    @include('backend.partials.toolbar')
+    {{--@include('backend.partials.toolbar')--}}
 @endsection
 
 @section('body')

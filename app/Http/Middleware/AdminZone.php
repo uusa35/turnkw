@@ -17,13 +17,16 @@ class AdminZone
      */
     public function handle($request, Closure $next)
     {
-        if (Cache::get('role.'.Auth::id()) === 'admin') {
 
-            return $next($request);
-            
-        }
+            if (Cache::get('role.'.Auth::id()) == 'admin') {
 
-        abort(403);
+                return $next($request);
+
+            }
+
+
+
+        abort(404);
 
     }
 }
