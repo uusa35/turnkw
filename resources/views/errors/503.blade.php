@@ -41,7 +41,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">{{ trans('general.under_construction') }}</div>
+                <div class="title">{{ trans('messages.info.down') }}</div>
             </div>
         </div>
     </body>
